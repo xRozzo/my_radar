@@ -1,0 +1,19 @@
+// void initiate_ship(s_video_game *sVideoGame);
+// 
+// void initiate_bg(s_video_game *sVideoGame);
+// 
+// void destructor(s_video_game *sVideoGame);
+// 
+// void init_window(s_video_game *sVideoGame);
+// 
+// void init_meteorit(s_video_game *sVideoGame);
+// 
+// void move_meteorit(s_video_game *sVideoGame);
+// 
+//void print_h(void);
+// 
+// void change_ship(s_video_game *sVideoGame);
+// 
+// void change_shipv2(s_video_game *sVideoGame);
+// 
+// void init_objects(s_video_game *sVideoGame);
